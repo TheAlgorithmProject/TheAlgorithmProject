@@ -5,3 +5,6 @@ Notes for contributing,
 2. Psuedo Codes not allowed.
 3. Describe at lease the problem it solves.
 4. Describe how it solves if possible.
+
+### Content
+1. disjkstra.py - Disjkstra implemented with heaps, O(log N) for operations.
