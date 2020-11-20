@@ -1,3 +1,7 @@
 ### A grand repository of Algorithms
 
-Notes for contributing. Please indicate the timecomplexities for you algorithms.
+Notes for contributing,
+1. Please indicate the time complexities for you algorithms.
+2. Psuedo Codes not allowed.
+3. Describe at lease the problem it solves.
+4. Describe how it solves if possible.
